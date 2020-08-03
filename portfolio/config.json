@@ -18,8 +18,8 @@
       "external": true
     },
     {
-      "text": "Say hi!",
-      "link": "mailto:sayhi@mydomain.com",
+      "text": "Contatti",
+      "link": "/contacts",
       "position": "right",
       "external": true
     },
